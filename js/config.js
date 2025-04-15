@@ -47,6 +47,10 @@ const API_SITES = {
         api: 'https://cjhwba.com',
         name: '新华为',
     },
+    hwba: {
+        api: 'https://cjwba.com',
+        name: '华为吧资源',
+    },
     jisu: {
         api: 'https://jszyapi.com',
         name: '极速资源',
